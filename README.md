@@ -17,19 +17,19 @@ Event viewer
 
 <p align="center">
 Launching event viewer and investigating application and service logs : <br/>
-<img src="https://imgur.com/l0fOQkr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l0fOQkr.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Investigating applicaion error:  <br/>
-<img src="https://imgur.com/8z2YkFr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8z2YkFr.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Investigating applicaion error: <br/>
-<img src="https://imgur.com/2JU0SB2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2JU0SB2.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Saving application error which can be forwarded to the team for further investigation:  <br/>
-<img src="https://imgur.com/ziiG0pb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ziiG0pb.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
